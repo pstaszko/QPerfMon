@@ -554,7 +554,7 @@ namespace QPerfMon
             this.KeyPreview = true;
             this.MinimumSize = new System.Drawing.Size(400, 300);
             this.Name = "MainForm";
-            this.Text = "Quick performance counter viewer";
+            this.Text = "QPerfMon";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainForm_FormClosing);
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.Shown += new System.EventHandler(this.MainForm_Shown);
