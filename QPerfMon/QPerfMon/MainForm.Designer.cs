@@ -460,6 +460,7 @@ namespace QPerfMon
             // lvwCounters
             // 
             this.lvwCounters.AllowDrop = true;
+            this.lvwCounters.BackColor = System.Drawing.Color.Black;
             this.lvwCounters.CheckBoxes = true;
             this.lvwCounters.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.columnHeader1,
@@ -468,6 +469,8 @@ namespace QPerfMon
             this.columnHeader3});
             this.lvwCounters.ContextMenuStrip = this.allInOneContextMenuStrip;
             this.lvwCounters.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lvwCounters.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
+            this.lvwCounters.FullRowSelect = true;
             this.lvwCounters.HideSelection = false;
             listViewItem1.StateImageIndex = 0;
             this.lvwCounters.Items.AddRange(new System.Windows.Forms.ListViewItem[] {
