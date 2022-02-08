@@ -1,0 +1,10 @@
+Newtonsoft.Json
+RestSharp
+FSharp.Core
+FSharp.Data
+System.ValueTuple
+group Local
+SharedFSharpForms
+SharedFrameworkForms
+SharedFSharpVanilla
+PerfSharp
