@@ -22,9 +22,10 @@ namespace QPerfMon
         private int initialMaxValue = 100;
         private uint defaultLineThickness = 2;
         private string displayTitle = "";
-        private string defaultTitle = "Quick performance counter viewer";
+        public string defaultTitle = "Quick performance counter viewer";
         private bool initializing = false;
-        private bool paused = true;
+
+        private bool paused { get; set; } = true;
         private QPerfMonFile initialPerfMonFile;
 
         private bool loggingEnabled = false;
