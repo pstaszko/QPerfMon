@@ -105,8 +105,8 @@ namespace QPerfMon
             // splitContainer1.Panel2
             // 
             this.splitContainer1.Panel2.Controls.Add(this.lvwCounters);
-            this.splitContainer1.Size = new System.Drawing.Size(586, 422);
-            this.splitContainer1.SplitterDistance = 312;
+            this.splitContainer1.Size = new System.Drawing.Size(586, 444);
+            this.splitContainer1.SplitterDistance = 328;
             this.splitContainer1.SplitterWidth = 8;
             this.splitContainer1.TabIndex = 1;
             this.splitContainer1.SplitterMoved += new System.Windows.Forms.SplitterEventHandler(this.splitContainer1_SplitterMoved);
@@ -131,8 +131,8 @@ namespace QPerfMon
             this.lineFlowGraph2DControl.MinPeekMagnitude = 0D;
             this.lineFlowGraph2DControl.Name = "lineFlowGraph2DControl";
             this.lineFlowGraph2DControl.ShowGrid = false;
-            this.lineFlowGraph2DControl.ShowLabels = false;
-            this.lineFlowGraph2DControl.Size = new System.Drawing.Size(586, 312);
+            this.lineFlowGraph2DControl.ShowLabels = true;
+            this.lineFlowGraph2DControl.Size = new System.Drawing.Size(586, 328);
             this.lineFlowGraph2DControl.TabIndex = 1;
             this.lineFlowGraph2DControl.TextColor = System.Drawing.Color.Yellow;
             this.lineFlowGraph2DControl.TextFont = new System.Drawing.Font("Verdana", 10F, System.Drawing.FontStyle.Bold);
@@ -477,7 +477,7 @@ namespace QPerfMon
             listViewItem1});
             this.lvwCounters.Location = new System.Drawing.Point(0, 0);
             this.lvwCounters.Name = "lvwCounters";
-            this.lvwCounters.Size = new System.Drawing.Size(586, 102);
+            this.lvwCounters.Size = new System.Drawing.Size(586, 108);
             this.lvwCounters.TabIndex = 0;
             this.lvwCounters.UseCompatibleStateImageBehavior = false;
             this.lvwCounters.View = System.Windows.Forms.View.Details;
@@ -525,6 +525,7 @@ namespace QPerfMon
             this.statusStrip1.Size = new System.Drawing.Size(586, 22);
             this.statusStrip1.TabIndex = 2;
             this.statusStrip1.Text = "statusStrip1";
+            this.statusStrip1.Visible = false;
             // 
             // toolStripStatusLabelVersion
             // 
