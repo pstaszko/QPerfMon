@@ -9,7 +9,7 @@ namespace QPerfMon
     [Serializable]
     public class QPerfMonFile
     {
-        private string title;
+        private string title = "";
         public string Title
         {
             get { return title; }

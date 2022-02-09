@@ -130,8 +130,8 @@ namespace QPerfMon
             this.lineFlowGraph2DControl.MinLabel = "0";
             this.lineFlowGraph2DControl.MinPeekMagnitude = 0D;
             this.lineFlowGraph2DControl.Name = "lineFlowGraph2DControl";
-            this.lineFlowGraph2DControl.ShowGrid = true;
-            this.lineFlowGraph2DControl.ShowLabels = true;
+            this.lineFlowGraph2DControl.ShowGrid = false;
+            this.lineFlowGraph2DControl.ShowLabels = false;
             this.lineFlowGraph2DControl.Size = new System.Drawing.Size(586, 312);
             this.lineFlowGraph2DControl.TabIndex = 1;
             this.lineFlowGraph2DControl.TextColor = System.Drawing.Color.Yellow;
