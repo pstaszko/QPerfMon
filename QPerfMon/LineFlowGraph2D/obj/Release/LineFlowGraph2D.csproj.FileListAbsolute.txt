@@ -1,0 +1,6 @@
+c:\dev\QPerfMon\QPerfMon\LineFlowGraph2D\bin\Release\LineFlowGraph2D.dll
+c:\dev\QPerfMon\QPerfMon\LineFlowGraph2D\bin\Release\LineFlowGraph2D.pdb
+c:\dev\QPerfMon\QPerfMon\LineFlowGraph2D\obj\Release\LineFlowGraph2D.csproj.AssemblyReference.cache
+c:\dev\QPerfMon\QPerfMon\LineFlowGraph2D\obj\Release\LineFlowGraph2D.csproj.CoreCompileInputs.cache
+c:\dev\QPerfMon\QPerfMon\LineFlowGraph2D\obj\Release\LineFlowGraph2D.dll
+c:\dev\QPerfMon\QPerfMon\LineFlowGraph2D\obj\Release\LineFlowGraph2D.pdb
