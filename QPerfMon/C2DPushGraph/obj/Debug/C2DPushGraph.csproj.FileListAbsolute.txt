@@ -1,6 +1,0 @@
-C:\DEV\QPerfMon\QPerfMon\C2DPushGraph\bin\Debug\C2DPushGraph.dll
-C:\DEV\QPerfMon\QPerfMon\C2DPushGraph\bin\Debug\C2DPushGraph.pdb
-C:\DEV\QPerfMon\QPerfMon\C2DPushGraph\obj\Debug\C2DPushGraph.csproj.AssemblyReference.cache
-C:\DEV\QPerfMon\QPerfMon\C2DPushGraph\obj\Debug\C2DPushGraph.csproj.CoreCompileInputs.cache
-C:\DEV\QPerfMon\QPerfMon\C2DPushGraph\obj\Debug\C2DPushGraph.dll
-C:\DEV\QPerfMon\QPerfMon\C2DPushGraph\obj\Debug\C2DPushGraph.pdb
