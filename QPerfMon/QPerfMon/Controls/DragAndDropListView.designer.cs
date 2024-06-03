@@ -1,4 +1,4 @@
-﻿
+
 namespace HenIT.Windows.Controls
 {
     partial class DragAndDropListView

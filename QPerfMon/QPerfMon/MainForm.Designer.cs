@@ -1,4 +1,4 @@
-﻿using HenIT.Windows.Controls;
+using HenIT.Windows.Controls;
 namespace QPerfMon
 {
     partial class MainForm
@@ -624,4 +624,3 @@ namespace QPerfMon
         private System.Windows.Forms.ToolStripMenuItem resetAllColorsToolStripMenuItem;
     }
 }
-
